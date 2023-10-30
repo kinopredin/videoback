@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Naruto",
+      "coverImage": "https://i.postimg.cc/wvvWY3jT/XhFpT5E.png",
+      "video": "https://www.youtube.com/embed/8vAdCraVYk8"
+    },
+    {
+      "id": "loddm2x1",
+      "caption": "Jiraya Death",
+      "coverImage": "https://i.postimg.cc/T1bFBht5/hqdefault.jpg",
+      "video": "https://www.youtube.com/embed/PQbPBIcTuJ0"
+    },
+    {
+      "id": "loddn0rm",
+      "caption": "Itachi",
+      "coverImage": "https://i.postimg.cc/dQhJkTdv/1063014.jpg",
+      "video": "https://www.youtube.com/embed/QTmzUEDyG0U"
+    },
+    {
+      "id": "loddofqn",
+      "caption": "Pain",
+      "coverImage": "https://i.postimg.cc/dtRpLqWw/OWTe66E.jpg",
+      "video": "https://www.youtube.com/embed/r8ZkTRwPQwY"
+    },
+    {
+      "id": "lodfaora",
+      "caption": "Isobu",
+      "coverImage": "https://i.postimg.cc/WpDKVmLR/main-qimg-6143d9c6be234c5a6d47ad7d449cadfa-pjlq.jpg",
+      "video": "https://www.youtube.com/embed/QFBvuYg6k_w"
+    },
+    {
+      "id": "lodfflpa",
+      "caption": "Killer B",
+      "coverImage": "https://i.postimg.cc/cHkcjz4K/dd2npl9-941c0602-47c3-479b-ab5f-222d1ebc3f11.png",
+      "video": "https://www.youtube.com/embed/lxMuXg5dA_I"
+    }
+  ],
+  "catagories": [
+    {
+      "id": 1,
+      "name": "Leaf Village Shinobi",
+      "videos": [
+        {
+          "id": "loddm2x1",
+          "caption": "Jiraya Death",
+          "coverImage": "https://i.postimg.cc/T1bFBht5/hqdefault.jpg",
+          "video": "https://www.youtube.com/embed/PQbPBIcTuJ0"
+        },
+        {
+          "id": 1,
+          "caption": "Naruto",
+          "coverImage": "https://i.postimg.cc/wvvWY3jT/XhFpT5E.png",
+          "video": "https://www.youtube.com/embed/8vAdCraVYk8"
+        }
+      ]
+    },
+    {
+      "id": "loddsxp9",
+      "name": "Akatsuki",
+      "videos": [
+        {
+          "id": "loddofqn",
+          "caption": "Pain",
+          "coverImage": "https://i.postimg.cc/dtRpLqWw/OWTe66E.jpg",
+          "video": "https://www.youtube.com/embed/r8ZkTRwPQwY"
+        },
+        {
+          "id": "loddn0rm",
+          "caption": "Itachi",
+          "coverImage": "https://i.postimg.cc/dQhJkTdv/1063014.jpg",
+          "video": "https://www.youtube.com/embed/QTmzUEDyG0U"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jinchūriki",
+      "videos": [
+        {
+          "id": "lodfflpa",
+          "caption": "Killer B",
+          "coverImage": "https://i.postimg.cc/cHkcjz4K/dd2npl9-941c0602-47c3-479b-ab5f-222d1ebc3f11.png",
+          "video": "https://www.youtube.com/embed/lxMuXg5dA_I"
+        },
+        {
+          "id": "lodfaora",
+          "caption": "Isobu",
+          "coverImage": "https://i.postimg.cc/WpDKVmLR/main-qimg-6143d9c6be234c5a6d47ad7d449cadfa-pjlq.jpg",
+          "video": "https://www.youtube.com/embed/QFBvuYg6k_w"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mom",
+      "videos": []
+    }
+  ],
+  "histories": []
+}
